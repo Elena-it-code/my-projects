@@ -18,6 +18,7 @@ function App() {
         >
           <div> New comment for dev branch</div>
           <div> New comment2  for dev branch</div>
+          <div> New comment3  for dev branch</div>
           Learn React
         </a>
       </header>
