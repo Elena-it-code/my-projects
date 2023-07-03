@@ -1,0 +1,21 @@
+function quarterOf(month){
+  let firstQuarter;
+  let secondQuarter;
+  let threeQuarter;
+  let fourQuarter;
+    if (month <= 3){
+    return firstQuarter = 1; 
+  
+  } else if (month <= 6){
+    return secondQuarter = 2;
+  
+  } else if (month <= 6){
+    return secondQuarter = 2;
+    
+  }else if (month <= 9){
+    return threeQuarter = 3;
+  
+  } else if (month <= 12){
+    return fourQuarter = 4;
+};
+}
